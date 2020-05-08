@@ -1,0 +1,2139 @@
+{
+    "globalObjects": {
+        "tweets": {
+            "1201872198480416769": {
+                "created_at": "Tue Dec 03 14:33:56 +0000 2019",
+                "id_str": "1201872198480416769",
+                "text": "TODAY 1PM ET/10AM PT https://t.co/hRc3EmUDlu",
+                "entities": {
+                    "media": [
+                        {
+                            "id_str": "1201872090292477953",
+                            "indices": [
+                                21,
+                                44
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201872090292477953/pu/img/z_wug2S7P0WEZ1Gm.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201872090292477953/pu/img/z_wug2S7P0WEZ1Gm.jpg",
+                            "url": "https://t.co/hRc3EmUDlu",
+                            "display_url": "pic.twitter.com/hRc3EmUDlu",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1201872198480416769/video/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 720,
+                                "height": 406
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 720,
+                                    "h": 406,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 720,
+                                    "h": 406,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id_str": "1201872090292477953",
+                            "indices": [
+                                21,
+                                44
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201872090292477953/pu/img/z_wug2S7P0WEZ1Gm.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201872090292477953/pu/img/z_wug2S7P0WEZ1Gm.jpg",
+                            "url": "https://t.co/hRc3EmUDlu",
+                            "display_url": "pic.twitter.com/hRc3EmUDlu",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1201872198480416769/video/1",
+                            "type": "video",
+                            "original_info": {
+                                "width": 720,
+                                "height": 406
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 720,
+                                    "h": 406,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 720,
+                                    "h": 406,
+                                    "resize": "fit"
+                                }
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    360,
+                                    203
+                                ],
+                                "duration_millis": 9718,
+                                "variants": [
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1201872090292477953/pu/vid/720x406/IEznMFBSC9JI0U4n.mp4?tag=10"
+                                    },
+                                    {
+                                        "bitrate": 256000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/1201872090292477953/pu/vid/478x270/xtY92QUT_LDMwD-1.mp4?tag=10"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/1201872090292477953/pu/pl/bT1eqbnTiFJ6w4S0.m3u8?tag=10"
+                                    }
+                                ]
+                            },
+                            "media_key": "7_1201872090292477953",
+                            "additional_media_info": {
+                                "monetizable": false
+                            }
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 7179,
+                "favorite_count": 32021,
+                "conversation_id_str": "1201872198480416769",
+                "possibly_sensitive_editable": true,
+                "lang": "en"
+            },
+            "1201927996128583684": {
+                "created_at": "Tue Dec 03 18:15:39 +0000 2019",
+                "id_str": "1201927996128583684",
+                "text": "PAID MY DUES OUT NOW \nhttps://t.co/sDk4KWLH3g https://t.co/mlQBVyc085",
+                "entities": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/sDk4KWLH3g",
+                            "expanded_url": "https://nf.lnk.to/paidmydues/youtube",
+                            "display_url": "nf.lnk.to/paidmydues/you…",
+                            "indices": [
+                                22,
+                                45
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id_str": "1201927209251999744",
+                            "indices": [
+                                46,
+                                69
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EK4bC-6XkAA67sd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EK4bC-6XkAA67sd.jpg",
+                            "url": "https://t.co/mlQBVyc085",
+                            "display_url": "pic.twitter.com/mlQBVyc085",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1201927996128583684/video/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 1280,
+                                "height": 720
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1280,
+                                    "h": 720,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id_str": "1201927209251999744",
+                            "indices": [
+                                46,
+                                69
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EK4bC-6XkAA67sd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EK4bC-6XkAA67sd.jpg",
+                            "url": "https://t.co/mlQBVyc085",
+                            "display_url": "pic.twitter.com/mlQBVyc085",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1201927996128583684/video/1",
+                            "type": "video",
+                            "original_info": {
+                                "width": 1280,
+                                "height": 720
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 675,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 383,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1280,
+                                    "h": 720,
+                                    "resize": "fit"
+                                }
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    16,
+                                    9
+                                ],
+                                "duration_millis": 29988,
+                                "variants": [
+                                    {
+                                        "bitrate": 288000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1201927209251999744/vid/480x270/9ACfy9Wh15Nqx_Cb.mp4?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1201927209251999744/vid/640x360/vwS8qwpslWMVyzgT.mp4?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1201927209251999744/vid/1280x720/XKJ-0mCmgV_n35YC.mp4?tag=13"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/amplify_video/1201927209251999744/pl/Rpzgbu-PV6Dwfe9Z.m3u8?tag=13"
+                                    }
+                                ]
+                            },
+                            "media_key": "13_1201927209251999744",
+                            "additional_media_info": {
+                                "title": "",
+                                "description": "",
+                                "embeddable": true,
+                                "monetizable": false
+                            }
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 9157,
+                "favorite_count": 32483,
+                "conversation_id_str": "1201927996128583684",
+                "possibly_sensitive_editable": true,
+                "lang": "en"
+            },
+            "1174730479687360512": {
+                "created_at": "Thu Sep 19 17:02:26 +0000 2019",
+                "id_str": "1174730479687360512",
+                "text": "New tour dates 2020! I want to do what I can to keep tickets in the hands of my fans, instead of you having to get… https://t.co/CYKEgpH67w",
+                "truncated": true,
+                "entities": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/CYKEgpH67w",
+                            "expanded_url": "https://twitter.com/i/web/status/1174730479687360512",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 1570,
+                "favorite_count": 11865,
+                "conversation_id_str": "1174730479687360512",
+                "possibly_sensitive_editable": true,
+                "lang": "en",
+                "self_thread": {
+                    "id_str": "1174730479687360512"
+                }
+            },
+            "1163096234615345153": {
+                "created_at": "Sun Aug 18 14:32:06 +0000 2019",
+                "id_str": "1163096234615345153",
+                "text": "The things that break you down can also build your character /",
+                "entities": {},
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 13862,
+                "favorite_count": 45214,
+                "conversation_id_str": "1163096234615345153",
+                "lang": "en"
+            },
+            "1237932916946149377": {
+                "created_at": "Thu Mar 12 02:46:21 +0000 2020",
+                "id_str": "1237932916946149377",
+                "text": "To all my UK fans, for the health and safety of everyone, the decision has been made to postpone the remainder of m… https://t.co/7hrApNmxgr",
+                "truncated": true,
+                "entities": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7hrApNmxgr",
+                            "expanded_url": "https://twitter.com/i/web/status/1237932916946149377",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 1130,
+                "favorite_count": 17648,
+                "conversation_id_str": "1237932916946149377",
+                "lang": "en"
+            },
+            "1204823921897459712": {
+                "created_at": "Wed Dec 11 18:03:02 +0000 2019",
+                "id_str": "1204823921897459712",
+                "text": "Hello https://t.co/uT8dtFs4zC",
+                "entities": {
+                    "media": [
+                        {
+                            "id_str": "1204823895632687107",
+                            "indices": [
+                                6,
+                                29
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/ELhk8xwWsAMgLXk.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/ELhk8xwWsAMgLXk.jpg",
+                            "url": "https://t.co/uT8dtFs4zC",
+                            "display_url": "pic.twitter.com/uT8dtFs4zC",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1204823921897459712/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 2048,
+                                "height": 2048,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 901,
+                                        "h": 1147,
+                                        "w": 2048
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 2048,
+                                        "w": 2048
+                                    },
+                                    {
+                                        "x": 252,
+                                        "y": 0,
+                                        "h": 2048,
+                                        "w": 1796
+                                    },
+                                    {
+                                        "x": 972,
+                                        "y": 0,
+                                        "h": 2048,
+                                        "w": 1024
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 2048,
+                                        "w": 2048
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id_str": "1204823895632687107",
+                            "indices": [
+                                6,
+                                29
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/ELhk8xwWsAMgLXk.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/ELhk8xwWsAMgLXk.jpg",
+                            "url": "https://t.co/uT8dtFs4zC",
+                            "display_url": "pic.twitter.com/uT8dtFs4zC",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1204823921897459712/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 2048,
+                                "height": 2048,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 901,
+                                        "h": 1147,
+                                        "w": 2048
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 2048,
+                                        "w": 2048
+                                    },
+                                    {
+                                        "x": 252,
+                                        "y": 0,
+                                        "h": 2048,
+                                        "w": 1796
+                                    },
+                                    {
+                                        "x": 972,
+                                        "y": 0,
+                                        "h": 2048,
+                                        "w": 1024
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 2048,
+                                        "w": 2048
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 2048,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                }
+                            },
+                            "media_key": "3_1204823895632687107"
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 2894,
+                "favorite_count": 36817,
+                "conversation_id_str": "1204823921897459712",
+                "possibly_sensitive_editable": true,
+                "lang": "en"
+            },
+            "1172970293633179649": {
+                "created_at": "Sat Sep 14 20:28:05 +0000 2019",
+                "id_str": "1172970293633179649",
+                "text": "https://t.co/vamJC1Sz9s",
+                "entities": {
+                    "media": [
+                        {
+                            "id_str": "1172970288449015809",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EEc6Qz8XUAEGURS.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EEc6Qz8XUAEGURS.jpg",
+                            "url": "https://t.co/vamJC1Sz9s",
+                            "display_url": "pic.twitter.com/vamJC1Sz9s",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1172970293633179649/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 2048,
+                                "height": 1394,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1147,
+                                        "w": 2048
+                                    },
+                                    {
+                                        "x": 479,
+                                        "y": 0,
+                                        "h": 1394,
+                                        "w": 1394
+                                    },
+                                    {
+                                        "x": 565,
+                                        "y": 0,
+                                        "h": 1394,
+                                        "w": 1223
+                                    },
+                                    {
+                                        "x": 828,
+                                        "y": 0,
+                                        "h": 1394,
+                                        "w": 697
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1394,
+                                        "w": 2048
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 463,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 817,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1394,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id_str": "1172970288449015809",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EEc6Qz8XUAEGURS.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EEc6Qz8XUAEGURS.jpg",
+                            "url": "https://t.co/vamJC1Sz9s",
+                            "display_url": "pic.twitter.com/vamJC1Sz9s",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1172970293633179649/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 2048,
+                                "height": 1394,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1147,
+                                        "w": 2048
+                                    },
+                                    {
+                                        "x": 479,
+                                        "y": 0,
+                                        "h": 1394,
+                                        "w": 1394
+                                    },
+                                    {
+                                        "x": 565,
+                                        "y": 0,
+                                        "h": 1394,
+                                        "w": 1223
+                                    },
+                                    {
+                                        "x": 828,
+                                        "y": 0,
+                                        "h": 1394,
+                                        "w": 697
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1394,
+                                        "w": 2048
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 463,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 817,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 2048,
+                                    "h": 1394,
+                                    "resize": "fit"
+                                }
+                            },
+                            "media_key": "3_1172970288449015809"
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 3615,
+                "favorite_count": 33898,
+                "conversation_id_str": "1172970293633179649",
+                "possibly_sensitive_editable": true,
+                "lang": "und"
+            },
+            "1202332442750836738": {
+                "created_at": "Wed Dec 04 21:02:47 +0000 2019",
+                "id_str": "1202332442750836738",
+                "text": "I'm bringing The Search Tour to Australia and New Zealand! Sign up for my email list to get first access to tickets… https://t.co/1vByKrvmxM",
+                "truncated": true,
+                "entities": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/1vByKrvmxM",
+                            "expanded_url": "https://twitter.com/i/web/status/1202332442750836738",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 543,
+                "favorite_count": 8156,
+                "conversation_id_str": "1202332442750836738",
+                "possibly_sensitive_editable": true,
+                "lang": "en"
+            },
+            "1177629175961792513": {
+                "created_at": "Fri Sep 27 17:00:49 +0000 2019",
+                "id_str": "1177629175961792513",
+                "text": "Tickets for The Search Tour Spring 2020 are available now at https://t.co/h77DlwkHuz https://t.co/cp9AQKhyG2",
+                "entities": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/h77DlwkHuz",
+                            "expanded_url": "http://nfrealmusic.com",
+                            "display_url": "nfrealmusic.com",
+                            "indices": [
+                                61,
+                                84
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id_str": "1177628764366409728",
+                            "indices": [
+                                85,
+                                108
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EFfHZtxWoAA7upd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EFfHZtxWoAA7upd.jpg",
+                            "url": "https://t.co/cp9AQKhyG2",
+                            "display_url": "pic.twitter.com/cp9AQKhyG2",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1177629175961792513/video/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 720,
+                                "height": 720
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 720,
+                                    "h": 720,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 720,
+                                    "h": 720,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id_str": "1177628764366409728",
+                            "indices": [
+                                85,
+                                108
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EFfHZtxWoAA7upd.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EFfHZtxWoAA7upd.jpg",
+                            "url": "https://t.co/cp9AQKhyG2",
+                            "display_url": "pic.twitter.com/cp9AQKhyG2",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1177629175961792513/video/1",
+                            "type": "video",
+                            "original_info": {
+                                "width": 720,
+                                "height": 720
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 720,
+                                    "h": 720,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 720,
+                                    "h": 720,
+                                    "resize": "fit"
+                                }
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    1,
+                                    1
+                                ],
+                                "duration_millis": 30072,
+                                "variants": [
+                                    {
+                                        "bitrate": 1280000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1177628764366409728/vid/720x720/yCXKhDssuoMxFMR4.mp4?tag=13"
+                                    },
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/amplify_video/1177628764366409728/pl/px1Dm_bAkIHSDLD9.m3u8?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 432000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1177628764366409728/vid/320x320/gPbr3FBof_l4CUVg.mp4?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1177628764366409728/vid/480x480/QC5tHWqHVhjX_Bbt.mp4?tag=13"
+                                    }
+                                ]
+                            },
+                            "media_key": "13_1177628764366409728",
+                            "additional_media_info": {
+                                "title": "",
+                                "description": "",
+                                "embeddable": true,
+                                "monetizable": false
+                            }
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 1606,
+                "favorite_count": 12832,
+                "conversation_id_str": "1177629175961792513",
+                "possibly_sensitive_editable": true,
+                "lang": "en"
+            },
+            "1157313352642826242": {
+                "created_at": "Fri Aug 02 15:32:59 +0000 2019",
+                "id_str": "1157313352642826242",
+                "text": "Tickets on sale now for The Search Tour for North America and Europe! https://t.co/h77DlwkHuz https://t.co/0EzuOolpWA",
+                "entities": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/h77DlwkHuz",
+                            "expanded_url": "http://nfrealmusic.com",
+                            "display_url": "nfrealmusic.com",
+                            "indices": [
+                                70,
+                                93
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id_str": "1157305799103918081",
+                            "indices": [
+                                94,
+                                117
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EA-aUQwXkAYj5wP.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EA-aUQwXkAYj5wP.jpg",
+                            "url": "https://t.co/0EzuOolpWA",
+                            "display_url": "pic.twitter.com/0EzuOolpWA",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1157313352642826242/video/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 720,
+                                "height": 720
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 720,
+                                    "h": 720,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 720,
+                                    "h": 720,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id_str": "1157305799103918081",
+                            "indices": [
+                                94,
+                                117
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EA-aUQwXkAYj5wP.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EA-aUQwXkAYj5wP.jpg",
+                            "url": "https://t.co/0EzuOolpWA",
+                            "display_url": "pic.twitter.com/0EzuOolpWA",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1157313352642826242/video/1",
+                            "type": "video",
+                            "original_info": {
+                                "width": 720,
+                                "height": 720
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 720,
+                                    "h": 720,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 720,
+                                    "h": 720,
+                                    "resize": "fit"
+                                }
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    1,
+                                    1
+                                ],
+                                "duration_millis": 30781,
+                                "variants": [
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/amplify_video/1157305799103918081/pl/HFLkEXCqC9WuBARz.m3u8?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 432000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1157305799103918081/vid/320x320/Tg-ukp1YT4IzcYCc.mp4?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1157305799103918081/vid/480x480/Drfq94lUtfn--o8_.mp4?tag=13"
+                                    },
+                                    {
+                                        "bitrate": 1280000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/amplify_video/1157305799103918081/vid/720x720/HJ_UrbJCSIfaFoHr.mp4?tag=13"
+                                    }
+                                ]
+                            },
+                            "media_key": "13_1157305799103918081",
+                            "additional_media_info": {
+                                "title": "",
+                                "description": "",
+                                "embeddable": true,
+                                "monetizable": false
+                            }
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 2241,
+                "favorite_count": 16323,
+                "conversation_id_str": "1157313352642826242",
+                "possibly_sensitive_editable": true,
+                "lang": "en"
+            },
+            "1174730772340727813": {
+                "created_at": "Thu Sep 19 17:03:36 +0000 2019",
+                "id_str": "1174730772340727813",
+                "text": "Verified Fan helps stop scalpers from buying and selling the tickets for way more than the original price.  Everyon… https://t.co/k17QmYLG3z",
+                "truncated": true,
+                "entities": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/k17QmYLG3z",
+                            "expanded_url": "https://twitter.com/i/web/status/1174730772340727813",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id_str": "1174730479687360512",
+                "in_reply_to_user_id_str": "335540047",
+                "in_reply_to_screen_name": "nfrealmusic",
+                "user_id_str": "335540047",
+                "retweet_count": 418,
+                "favorite_count": 7611,
+                "conversation_id_str": "1174730479687360512",
+                "lang": "en",
+                "self_thread": {
+                    "id_str": "1174730479687360512"
+                }
+            },
+            "1246505142867890177": {
+                "created_at": "Sat Apr 04 18:29:19 +0000 2020",
+                "id_str": "1246505142867890177",
+                "text": "Simple is a myth",
+                "entities": {},
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 5404,
+                "favorite_count": 31535,
+                "conversation_id_str": "1246505142867890177",
+                "lang": "en"
+            },
+            "1157721469314424833": {
+                "created_at": "Sat Aug 03 18:34:42 +0000 2019",
+                "id_str": "1157721469314424833",
+                "text": "I trade my joy for my protection",
+                "entities": {},
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 6670,
+                "favorite_count": 33599,
+                "conversation_id_str": "1157721469314424833",
+                "lang": "en"
+            },
+            "1240754073843924993": {
+                "created_at": "Thu Mar 19 21:36:37 +0000 2020",
+                "id_str": "1240754073843924993",
+                "text": "UPDATE https://t.co/a6wi3JBuBY",
+                "entities": {
+                    "media": [
+                        {
+                            "id_str": "1240753827147583489",
+                            "indices": [
+                                7,
+                                30
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/ETgLCDDWkAEChCk.png",
+                            "media_url_https": "https://pbs.twimg.com/media/ETgLCDDWkAEChCk.png",
+                            "url": "https://t.co/a6wi3JBuBY",
+                            "display_url": "pic.twitter.com/a6wi3JBuBY",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1240754073843924993/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 1080,
+                                "height": 1080,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 103,
+                                        "h": 605,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1080,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 67,
+                                        "y": 0,
+                                        "h": 1080,
+                                        "w": 947
+                                    },
+                                    {
+                                        "x": 270,
+                                        "y": 0,
+                                        "h": 1080,
+                                        "w": 540
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1080,
+                                        "w": 1080
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "medium": {
+                                    "w": 1080,
+                                    "h": 1080,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1080,
+                                    "h": 1080,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                }
+                            }
+                        },
+                        {
+                            "id_str": "1240753956491612169",
+                            "indices": [
+                                7,
+                                30
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/ETgLJk5X0AkwNKw.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/ETgLJk5X0AkwNKw.jpg",
+                            "url": "https://t.co/a6wi3JBuBY",
+                            "display_url": "pic.twitter.com/a6wi3JBuBY",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1240754073843924993/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 1080,
+                                "height": 1350,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 745,
+                                        "h": 605,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 270,
+                                        "h": 1080,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 119,
+                                        "h": 1231,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1350,
+                                        "w": 675
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1350,
+                                        "w": 1080
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 544,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1080,
+                                    "h": 1350,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 960,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id_str": "1240753827147583489",
+                            "indices": [
+                                7,
+                                30
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/ETgLCDDWkAEChCk.png",
+                            "media_url_https": "https://pbs.twimg.com/media/ETgLCDDWkAEChCk.png",
+                            "url": "https://t.co/a6wi3JBuBY",
+                            "display_url": "pic.twitter.com/a6wi3JBuBY",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1240754073843924993/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 1080,
+                                "height": 1080,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 103,
+                                        "h": 605,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1080,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 67,
+                                        "y": 0,
+                                        "h": 1080,
+                                        "w": 947
+                                    },
+                                    {
+                                        "x": 270,
+                                        "y": 0,
+                                        "h": 1080,
+                                        "w": 540
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1080,
+                                        "w": 1080
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "medium": {
+                                    "w": 1080,
+                                    "h": 1080,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1080,
+                                    "h": 1080,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                }
+                            },
+                            "media_key": "3_1240753827147583489"
+                        },
+                        {
+                            "id_str": "1240753956491612169",
+                            "indices": [
+                                7,
+                                30
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/ETgLJk5X0AkwNKw.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/ETgLJk5X0AkwNKw.jpg",
+                            "url": "https://t.co/a6wi3JBuBY",
+                            "display_url": "pic.twitter.com/a6wi3JBuBY",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1240754073843924993/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 1080,
+                                "height": 1350,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 745,
+                                        "h": 605,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 270,
+                                        "h": 1080,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 119,
+                                        "h": 1231,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1350,
+                                        "w": 675
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1350,
+                                        "w": 1080
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "small": {
+                                    "w": 544,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1080,
+                                    "h": 1350,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 960,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                }
+                            },
+                            "media_key": "3_1240753956491612169"
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 1460,
+                "favorite_count": 13379,
+                "conversation_id_str": "1240754073843924993",
+                "possibly_sensitive_editable": true,
+                "lang": "en"
+            },
+            "1167957635624161280": {
+                "created_at": "Sun Sep 01 00:29:34 +0000 2019",
+                "id_str": "1167957635624161280",
+                "text": "If you made a list of people that you trusted would you put your name down?",
+                "entities": {},
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 12848,
+                "favorite_count": 51764,
+                "conversation_id_str": "1167957635624161280",
+                "lang": "en"
+            },
+            "1164235751883780098": {
+                "created_at": "Wed Aug 21 18:00:08 +0000 2019",
+                "id_str": "1164235751883780098",
+                "text": "Even good people are great at making bad decisions/",
+                "entities": {},
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 12331,
+                "favorite_count": 42859,
+                "conversation_id_str": "1164235751883780098",
+                "lang": "en"
+            },
+            "1158116316244561921": {
+                "created_at": "Sun Aug 04 20:43:41 +0000 2019",
+                "id_str": "1158116316244561921",
+                "text": "https://t.co/E5YOZ1DD5m",
+                "entities": {
+                    "media": [
+                        {
+                            "id_str": "1158116309680476160",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EBJ0pc8XUAAs65m.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EBJ0pc8XUAAs65m.jpg",
+                            "url": "https://t.co/E5YOZ1DD5m",
+                            "display_url": "pic.twitter.com/E5YOZ1DD5m",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1158116316244561921/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 1242,
+                                "height": 1111,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 696,
+                                        "w": 1242
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1111,
+                                        "w": 1111
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1111,
+                                        "w": 975
+                                    },
+                                    {
+                                        "x": 125,
+                                        "y": 0,
+                                        "h": 1111,
+                                        "w": 556
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1111,
+                                        "w": 1242
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1242,
+                                    "h": 1111,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 608,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1073,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id_str": "1158116309680476160",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EBJ0pc8XUAAs65m.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EBJ0pc8XUAAs65m.jpg",
+                            "url": "https://t.co/E5YOZ1DD5m",
+                            "display_url": "pic.twitter.com/E5YOZ1DD5m",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1158116316244561921/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 1242,
+                                "height": 1111,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 696,
+                                        "w": 1242
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1111,
+                                        "w": 1111
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1111,
+                                        "w": 975
+                                    },
+                                    {
+                                        "x": 125,
+                                        "y": 0,
+                                        "h": 1111,
+                                        "w": 556
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1111,
+                                        "w": 1242
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 1242,
+                                    "h": 1111,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 608,
+                                    "resize": "fit"
+                                },
+                                "medium": {
+                                    "w": 1200,
+                                    "h": 1073,
+                                    "resize": "fit"
+                                }
+                            },
+                            "media_key": "3_1158116309680476160"
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 5955,
+                "favorite_count": 39506,
+                "conversation_id_str": "1158116316244561921",
+                "possibly_sensitive_editable": true,
+                "lang": "und"
+            },
+            "1204537943102234624": {
+                "created_at": "Tue Dec 10 23:06:39 +0000 2019",
+                "id_str": "1204537943102234624",
+                "text": "I am adding shows to my AU/NZ tour. For first access to tickets join my email list at https://t.co/h77DlwkHuz https://t.co/koINGVkcFj",
+                "entities": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/h77DlwkHuz",
+                            "expanded_url": "http://nfrealmusic.com",
+                            "display_url": "nfrealmusic.com",
+                            "indices": [
+                                86,
+                                109
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id_str": "1204537938337501185",
+                            "indices": [
+                                110,
+                                133
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/ELdg330WkAEn4GP.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/ELdg330WkAEn4GP.jpg",
+                            "url": "https://t.co/koINGVkcFj",
+                            "display_url": "pic.twitter.com/koINGVkcFj",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1204537943102234624/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 1080,
+                                "height": 1350,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 745,
+                                        "h": 605,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 270,
+                                        "h": 1080,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 119,
+                                        "h": 1231,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 236,
+                                        "y": 0,
+                                        "h": 1350,
+                                        "w": 675
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1350,
+                                        "w": 1080
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 960,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 544,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1080,
+                                    "h": 1350,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id_str": "1204537938337501185",
+                            "indices": [
+                                110,
+                                133
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/ELdg330WkAEn4GP.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/ELdg330WkAEn4GP.jpg",
+                            "url": "https://t.co/koINGVkcFj",
+                            "display_url": "pic.twitter.com/koINGVkcFj",
+                            "expanded_url": "https://twitter.com/nfrealmusic/status/1204537943102234624/photo/1",
+                            "type": "photo",
+                            "original_info": {
+                                "width": 1080,
+                                "height": 1350,
+                                "focus_rects": [
+                                    {
+                                        "x": 0,
+                                        "y": 745,
+                                        "h": 605,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 270,
+                                        "h": 1080,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 119,
+                                        "h": 1231,
+                                        "w": 1080
+                                    },
+                                    {
+                                        "x": 236,
+                                        "y": 0,
+                                        "h": 1350,
+                                        "w": 675
+                                    },
+                                    {
+                                        "x": 0,
+                                        "y": 0,
+                                        "h": 1350,
+                                        "w": 1080
+                                    }
+                                ]
+                            },
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 960,
+                                    "h": 1200,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 544,
+                                    "h": 680,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 1080,
+                                    "h": 1350,
+                                    "resize": "fit"
+                                }
+                            },
+                            "media_key": "3_1204537938337501185"
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 389,
+                "favorite_count": 7378,
+                "conversation_id_str": "1204537943102234624",
+                "possibly_sensitive_editable": true,
+                "lang": "en"
+            },
+            "1211712496920334337": {
+                "created_at": "Mon Dec 30 18:15:46 +0000 2019",
+                "id_str": "1211712496920334337",
+                "text": "Your best songs won’t always be your biggest.",
+                "entities": {},
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 6605,
+                "favorite_count": 52579,
+                "conversation_id_str": "1211712496920334337",
+                "lang": "en"
+            },
+            "1237758092504453120": {
+                "created_at": "Wed Mar 11 15:11:40 +0000 2020",
+                "id_str": "1237758092504453120",
+                "text": "St. Paul! I'm brining The Search Tour to the Minnesota State Fair on September 3. Sign up for my email list to acce… https://t.co/Z8pRtUYYJw",
+                "truncated": true,
+                "entities": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Z8pRtUYYJw",
+                            "expanded_url": "https://twitter.com/i/web/status/1237758092504453120",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+                "user_id_str": "335540047",
+                "retweet_count": 378,
+                "favorite_count": 6058,
+                "conversation_id_str": "1237758092504453120",
+                "possibly_sensitive_editable": true,
+                "lang": "en"
+            }
+        },
+        "users": {
+            "335540047": {
+                "id_str": "335540047",
+                "name": "NF",
+                "screen_name": "nfrealmusic",
+                "location": "Michigan",
+                "description": "REALMUSIC THE SEARCH ALBUM OUT NOW",
+                "url": "https://t.co/Y6lXLDtOrx",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Y6lXLDtOrx",
+                                "expanded_url": "http://nfrealmusic.com",
+                                "display_url": "nfrealmusic.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {}
+                },
+                "followers_count": 549138,
+                "fast_followers_count": 0,
+                "normal_followers_count": 549138,
+                "friends_count": 25,
+                "listed_count": 636,
+                "created_at": "Thu Jul 14 21:00:23 +0000 2011",
+                "favourites_count": 10125,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 5995,
+                "media_count": 715,
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201928774008397826/OU1Etj6c_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/335540047/1559232657",
+                "profile_link_color": "403740",
+                "pinned_tweet_ids": [
+                    1201927996128583684
+                ],
+                "pinned_tweet_ids_str": [
+                    "1201927996128583684"
+                ],
+                "advertiser_account_type": "promotable_user",
+                "advertiser_account_service_levels": [
+                    "smb",
+                    "dso",
+                    "dso"
+                ],
+                "business_profile_state": "none",
+                "translator_type": "regular"
+            }
+        },
+        "moments": {},
+        "cards": {},
+        "places": {},
+        "media": {},
+        "broadcasts": {},
+        "topics": {},
+        "lists": {}
+    },
+    "timeline": {
+        "id": "ProfileBest-335540047",
+        "instructions": [
+            {
+                "addEntries": {
+                    "entries": [
+                        {
+                            "entryId": "tweet-1246505142867890177",
+                            "sortIndex": "1246505142867890177",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1246505142867890177",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1240754073843924993",
+                            "sortIndex": "1240754073843924993",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1240754073843924993",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1237932916946149377",
+                            "sortIndex": "1237932916946149377",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1237932916946149377",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1237758092504453120",
+                            "sortIndex": "1237758092504453120",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1237758092504453120",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1211712496920334337",
+                            "sortIndex": "1211712496920334337",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1211712496920334337",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1204823921897459712",
+                            "sortIndex": "1204823921897459712",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1204823921897459712",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1204537943102234624",
+                            "sortIndex": "1204537943102234624",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1204537943102234624",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1202332442750836738",
+                            "sortIndex": "1202332442750836738",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1202332442750836738",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1201872198480416769",
+                            "sortIndex": "1201872198480416769",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1201872198480416769",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1177629175961792513",
+                            "sortIndex": "1177629175961792513",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1177629175961792513",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1174730772340727813",
+                            "sortIndex": "1174730772340727813",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1174730772340727813",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1174730479687360512",
+                            "sortIndex": "1174730479687360512",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1174730479687360512",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1172970293633179649",
+                            "sortIndex": "1172970293633179649",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1172970293633179649",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1167957635624161280",
+                            "sortIndex": "1167957635624161280",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1167957635624161280",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1164235751883780098",
+                            "sortIndex": "1164235751883780098",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1164235751883780098",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1163096234615345153",
+                            "sortIndex": "1163096234615345153",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1163096234615345153",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1158116316244561921",
+                            "sortIndex": "1158116316244561921",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1158116316244561921",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1157721469314424833",
+                            "sortIndex": "1157721469314424833",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1157721469314424833",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "tweet-1157313352642826242",
+                            "sortIndex": "1157313352642826242",
+                            "content": {
+                                "item": {
+                                    "content": {
+                                        "tweet": {
+                                            "id": "1157313352642826242",
+                                            "displayType": "Tweet"
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "cursor-top-1258741015800446977",
+                            "sortIndex": "1258741015800446977",
+                            "content": {
+                                "operation": {
+                                    "cursor": {
+                                        "value": "HCaAgIDwnJL59yIAAA==",
+                                        "cursorType": "Top"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "entryId": "cursor-bottom-1157313352642826241",
+                            "sortIndex": "1157313352642826241",
+                            "content": {
+                                "operation": {
+                                    "cursor": {
+                                        "value": "HBaEwLzhmZfNjyAAAA==",
+                                        "cursorType": "Bottom",
+                                        "stopOnEmptyResponse": true
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "pinEntry": {
+                    "entry": {
+                        "entryId": "tweet-1201927996128583684",
+                        "sortIndex": "1258741015800446976",
+                        "content": {
+                            "item": {
+                                "content": {
+                                    "tweet": {
+                                        "id": "1201927996128583684",
+                                        "displayType": "Tweet",
+                                        "socialContext": {
+                                            "generalContext": {
+                                                "contextType": "Pin",
+                                                "text": "Pinned Tweet"
+                                            }
+                                        }
+                                    }
+                                },
+                                "clientEventInfo": {
+                                    "component": "suggest_pinned_tweet",
+                                    "details": {
+                                        "timelinesDetails": {
+                                            "injectionType": "PinnedTweet"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        ],
+        "responseObjects": {
+            "feedbackActions": {}
+        }
+    }
+}

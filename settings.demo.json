@@ -1,0 +1,6 @@
+{
+    "id" : "id",
+    "secret" : "secret",
+    "bot_token": "bottoken",
+    "genius_api": "genius api"
+}
