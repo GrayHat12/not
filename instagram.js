@@ -1,12 +1,13 @@
 const Discord = require('discord.js');
 const events = require('events');
-const {sendMessage,types} = require('./util');
+const utils = require('./utils');
 const axios = require('axios');
 
 const instaEvent = new events.EventEmitter();
 const regex = /"display_url"\s*:\s*"([^"]*)"/gm;
 
-async function startInsta(profile='https://www.instagram.com/nf._.memes/'){
+async function startInsta(profile='nf._.memes'){
+    profile = `https://www.instagram.com/${profile}/`;
     setInterval(function() {
         Instagram(profile);
     }, 5*60*1000);

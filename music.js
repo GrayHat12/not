@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const { Gtube, Item } = require("gtube");
 const settings = require('./settings.json');
-const {sendMessage,types} = require('./util');
+const utils = require('./utils');
 const { getLyrics } = require('genius-lyrics-api');
 const events = require('events');
 
@@ -15,7 +15,7 @@ function music(message=new Discord.Message()){
     var option = tokens.shift();
     var rest = tokens.join(' ');
     if(command.toLowerCase()!='play'){
-        return sendMessage(message,"issue at music.js 12",types.code,null);
+        return utils.sendMessage(message,"issue at music.js 12",utils.types.code,null);
     }
     if(option=='-l'){
         return Lyrics(rest,message);
@@ -43,7 +43,7 @@ async function Lyrics(rest="",message=new Discord.Message()){
         options['title'] = rest;
     }
     getLyrics(options).then((lyric)=>{
-        sendMessage(message,lyric,types.lyrics,null);
+        utils.sendMessage(message,lyric,utils.types.lyrics,null);
     });
 }
 async function Artist(rest="",message=new Discord.Message()){

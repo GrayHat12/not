@@ -1,9 +1,10 @@
 const Discord = require('discord.js');
 const events = require('events');
-const {sendMessage,types} = require('./util');
+const utils = require('./util');
 const axios = require('axios');
 
 const twitterEvent = new events.EventEmitter();
+
 var options = {
     'method': 'GET',
     'url': 'https://api.twitter.com/2/timeline/profile/id.json',
@@ -18,15 +19,17 @@ async function startTwitter(profile='335540047'){
         Twitter(profile);
     }, 5*60*1000);
 }
+
 async function Twitter(profile){
     var url = options.url;
     url = url.replace('id',profile);
     axios.default.get(options.url,{headers: options.headers}).then((res)=>{
-        instaEvent.emit("fetched",profile,res.data);
+        twitterEvent.emit("fetched",profile,res.data);
     }).catch((err)=>{
-        instaEvent.emit("errorFetching",profile,err);
+        twitterEvent.emit("errorFetching",profile,err);
     });
 }
+
 function getLatestPost(profile="",data=require('./twitter.json')){
     var post = {
         key: '',
