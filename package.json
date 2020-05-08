@@ -1,0 +1,19 @@
+{
+  "name": "not",
+  "version": "1.0.0",
+  "description": "The NF BOT",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DiscordBot"
+  ],
+  "author": "GrayHat",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "genius-lyrics-api": "^2.0.3",
+    "gtube": "^1.0.6"
+  }
+}
