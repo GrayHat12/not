@@ -7,7 +7,7 @@ import logging
 logger = logging.getLogger(get_module_name(__file__))
 
 
-@commands.command(name="ping")
+@commands.command(name="ping", extras={"id": 0})
 async def ping(ctx: Context):
     logger.info(f"got ping command")
     now = datetime.now(timezone.utc)

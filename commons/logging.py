@@ -16,7 +16,7 @@ class ColourFormatter(_ColourFormatter):
 
     FORMATS = {
         level: logging.Formatter(
-            f'\x1b[90;1m%(asctime)s\x1b[0m {colour}%(levelname)-8s\x1b[0m \x1b[35m%(name)-19s\x1b[0m {colour}%(message)s\x1b[0m',
+            f'\x1b[90;1m%(asctime)s\x1b[0m {colour}%(levelname)-8s\x1b[0m \x1b[35m%(name)-24s\x1b[0m {colour}%(message)s\x1b[0m',
             dt_fmt
         )
         for level, colour in LEVEL_COLOURS
@@ -33,7 +33,7 @@ file_handler = logging.handlers.RotatingFileHandler(
 stream_handler = logging.StreamHandler()
 
 plain_formatter = logging.Formatter(
-    '[{asctime}] [{levelname:<8}] {name:<19}: {message}', dt_fmt, style='{'
+    '[{asctime}] [{levelname:<8}] {name:<24}: {message}', dt_fmt, style='{'
 )
 color_formatter = ColourFormatter()
 
